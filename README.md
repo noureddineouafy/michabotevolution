@@ -49,7 +49,7 @@
 ##
 
 
-- Star ⭐ repo if you like this bot.
+- Star ♥ repo if you like this bot.
 
 
 ---
