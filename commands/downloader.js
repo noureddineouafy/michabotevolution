@@ -158,7 +158,7 @@ cmd({
         },
 
         async(Void, citel, text) => {
-        if(!text )return citel.reply("*_Give me App Name_*");
+        if(!text )return citel.reply("*أعطيني اسم التطبيق*");
 
 	const getRandom = (ext) => { return `${Math.floor(Math.random() * 10000)}${ext}`; };
 	let randomName = getRandom(".apk");
