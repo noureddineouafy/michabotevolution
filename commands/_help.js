@@ -62,7 +62,6 @@ Secktor.cmd({
 │ │ Mem:- ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
 │ │ Time:- ${time}
 │ │ Date:- ${date}
-│ │ youtube.com/c/SuhailTechInfo
 │ ╰───────✧❁✧───────»
 ╰───────────────⊷\n
 ` + ''
